@@ -1,0 +1,21 @@
+.justaclass{
+
+  color:white;
+}
+#adminbutton{
+  background-color: #FF4500;
+  border-color: white;
+
+}
+#adminbutton:hover{
+  opacity: 0.7;
+}
+.fa-user-plus
+{
+  color: white;
+
+  }
+
+#readmore{
+  background-color: red;
+}
